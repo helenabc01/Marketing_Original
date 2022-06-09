@@ -1,0 +1,80 @@
+p{
+    font-family: Helvetica;
+    color: #FFFFFF;
+}
+#header{
+    width: 600px;
+    height: 163px;
+    padding-top: 0em;
+}
+body{
+    background-color: black;
+}
+#salario{
+    color: #00A857;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+   
+}
+#fulano{
+    margin: 60px 451px 60px 60px;
+    color: #FFFFFF;
+   
+}
+#contacorrente{
+    margin: 60px 87px 77px 60px;
+
+}
+#carteira{
+    margin: 60px 30px 20px 60px;
+    width: 56px;
+    height: 56px;
+}
+#tarifa0, #tarifa,#cash{
+    margin: 20px 30px 20px 60px;
+    width: 56px;
+    height: 56px;
+}
+#saques{
+    font-size: 18px;
+    margin: 77px 137px 41px 30px;
+}
+.texto{
+    width: 367px;
+height: 46px;
+left: 146px;
+top: 586px;
+}
+#top{
+    width: 600px;
+height: 131px;
+left: 0px;
+top: 844px;
+}
+#portabi{
+    width: 600px;
+height: 576px;
+left: 0px;
+top: 975px;
+}
+#completo{
+    width: 600px;
+height: 272px;
+left: 0px;
+top: 1551px;
+}
+#parte{
+background-color: #FFFFFF;
+width: 600px;
+height: 612px;
+left: 0px;
+top: 1824px;
+}
+#footer{
+    width: 540px;
+height: 96.72px;
+left: 30px;
+top: 1853px;
+margin: 30px 30px 33.28px 30px;
+}
